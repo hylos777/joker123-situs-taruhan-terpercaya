@@ -1,0 +1,22 @@
+{
+  "name": "joker123-situs-taruhan-terpercaya",
+  "main": "./atom/joker123-situs-taruhan-terpercaya",
+  "version": "1.2.0",
+  "description": "DAFTAR SLOT GACOR DI JOKER123 DENGAN DEPOSIT PULSA 5000 TANPA POTONGAN",
+  "keywords": [
+    "slot bet kecil",
+    "agen judi online",
+    "agen slot online",
+    "situs slot gacor",
+    "slot deposit 5000",
+    "slot online deposit termurah"
+  ],
+  "activationCommands": {
+    "atom-workspace": "agen-slot-online:toggle"
+  },
+  "repository": "https://github.com/joker123-situs-taruhan-terpercaya",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
